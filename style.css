@@ -1,0 +1,13 @@
+.head1{
+    width: 50%;
+    height: 100%;
+    border: 10px;
+    color: rgb(136, 40, 40);
+    border-style: solid;
+    margin-top: 200px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(148, 132, 132);
+   
+    box-shadow: -3px -3px 44px 49px rgba(128,21,128,1);
+}
